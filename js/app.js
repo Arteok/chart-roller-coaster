@@ -16,7 +16,7 @@ const renderModelsChart = () => {
         datasets: [{
             data: [10,20,30],
             borderColor: getDataColors(),
-            backgroundColor: getDataColors(20)
+            backgroundColor: getDataColors(40)
             
            // borderColor: ['red', 'green', 'blue'],
             //backgroundColor: ['blue', 'green', 'red']

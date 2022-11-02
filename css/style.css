@@ -1,9 +1,18 @@
+*{
+    box-sizing: border-box;
+}
 body{
     margin: 0;
     background-color: #333;  
-    color: #fff;  
-    
+    color: #fff;      
 }
+
+
 .cols-2{
-    width: 400;
+    margin: 100px 1000px 100px 100px;
+    background-color: #330;
+}
+.cols-1{
+    margin: 200px ;
+    background-color: #330;
 }
