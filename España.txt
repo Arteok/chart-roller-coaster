@@ -1,0 +1,25 @@
+[
+	{
+		"length":880,
+		"height":111,
+		"speed":179,
+		"inversions":0,
+		"gForce":null,
+		"country":"Spain",
+		"year":2017,
+		"type":[
+			"Roller Coaster",
+			"Steel",
+			"Sit Down",
+			"Extreme"
+			],
+		"_id":"5e8ef56a60fa824d1e2db3c2",
+		"name":"Red Force",
+		"park":"Ferrari Land",
+		"model":"Accelerator Coaster",
+		"createdAt":"2020-04-09T10:14:02.717Z",
+		"updatedAt":"2020-04-09T10:14:02.717Z",
+		"__v":0
+	},
+	{	
+		"length":1269,"height":45,"speed":104,"inversions":8,"gForce":null,"country":"Spain","year":1995,"type":["Roller Coaster","Steel","Sit Down","Extreme"],"_id":"5e8ef56a60fa824d1e2db3d1","name":"Dragon Khan","park":"PortAventura Park","model":"Sitting Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0},{"length":1564,"height":75,"speed":134,"inversions":0,"gForce":3.8,"country":"Spain","year":2012,"type":["Roller Coaster","Steel","Sit Down","Extreme"],"_id":"5e8ef56a60fa824d1e2db3d9","name":"Shambhala","park":"PortAventura Park","model":"Hyper Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0},{"length":629,"height":25,"speed":68,"inversions":0,"gForce":null,"country":"Spain","year":2005,"type":["Roller Coaster","Steel","Sit Down","Thrill"],"_id":"5e8ef56a60fa824d1e2db3da","name":"Tarántula","park":"Parque de Atracciones de Madrid","model":"Giga Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0},{"length":450,"height":46,"speed":104,"inversions":2,"gForce":4,"country":"Spain","year":2006,"type":["Roller Coaster","Steel","Sit Down","Extreme"],"_id":"5e8ef56a60fa824d1e2db3db","name":"Abismo","park":"Parque de Atracciones de Madrid","model":"Giga Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0},{"length":800,"height":29,"speed":80,"inversions":3,"gForce":4,"country":"Spain","year":1999,"type":["Roller Coaster","Steel","Inverted","Extreme"],"_id":"5e8ef56a60fa824d1e2db3dc","name":"Tornado","park":"Parque de Atracciones de Madrid","model":"Suspended Looping Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0},{"length":765,"height":33,"speed":80,"inversions":5,"gForce":null,"country":"Spain","year":2012,"type":["Roller Coaster","Steel","Sit Down","Extreme"],"_id":"5e8ef56a60fa824d1e2db3dd","name":"Jaguar","park":"Isla Mágica","model":"Hyper Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0},{"length":369,"height":13,"speed":45,"inversions":0,"gForce":null,"country":"Spain","year":2009,"type":["Roller Coaster","Steel","Sit Down","Thrill"],"_id":"5e8ef56a60fa824d1e2db3de","name":"Vértigo","park":"Parque de Atracciones de Madrid","model":"Wild Mouse Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0},{"length":823,"height":32,"speed":80,"inversions":5,"gForce":null,"country":"Spain","year":2002,"type":["Roller Coaster","Steel","Inverted","Extreme"],"_id":"5e8ef56a60fa824d1e2db3df","name":"Batman: Arkham Asylum","park":"Parque Warner Madrid","model":"Inverted Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0},{"length":1099,"height":50,"speed":99,"inversions":7,"gForce":null,"country":"Spain","year":2002,"type":["Roller Coaster","Steel","Sit Down","Extreme"],"_id":"5e8ef56a60fa824d1e2db3e0","name":"Superman / la Atracción de Acero","park":"Parque Warner Madrid","model":"Floorless Coaster","createdAt":"2020-04-09T10:14:02.718Z","updatedAt":"2020-04-09T10:14:02.718Z","__v":0}]

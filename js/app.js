@@ -3,8 +3,8 @@ Chart.defaults.color = '#fff'
 const printCharts = () => {
     /*fetchCoastersData('https://coasters-api.herokuapp.com','https://coasters-api.herokuapp.com/country/Spain')
     .then(([allCoasters, nationalCoasters]) => {
-        console.log(allCoasters, nationalCoasters)
-    })    */
+            console.log(allCoasters, nationalCoasters)
+    })   */
 
     renderModelsChart()
 
@@ -18,7 +18,7 @@ const renderModelsChart = () => {
             borderColor: getDataColors(),
             backgroundColor: getDataColors(40)
             
-           // borderColor: ['red', 'green', 'blue'],
+            //borderColor: ['red', 'green', 'blue'],
             //backgroundColor: ['blue', 'green', 'red']
         }]    
     }
@@ -29,7 +29,9 @@ const renderModelsChart = () => {
         }
     }
 
-    new Chart('modelsChart',{type: 'doughnut', data, options})//crea el tipo de grafico
+    new Chart('modelsChart',{type: 'line', data, options})//crea el tipo de grafico
 }
+
+
 
 printCharts()

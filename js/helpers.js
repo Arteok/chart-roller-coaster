@@ -1,4 +1,4 @@
-const fetchCoasterData = (...urls) => {
+const fetchCoasterData = (... urls) => {
     const promises = urls.map(url => fetch(url).then(response => response.json()))
     return Promise.all(promises)
 }
