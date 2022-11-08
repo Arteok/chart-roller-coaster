@@ -12,10 +12,7 @@ const printCharts = () => {
             renderYearsChart(allCoasters);
             enableEventHandlers(nationalCoasters);
         })
-
 }
-
-
 
 const renderModelsChart = coasters => {
 
@@ -38,9 +35,6 @@ const renderModelsChart = coasters => {
 
     new Chart('modelsChart', { type: 'doughnut', data, options })
 }
-
-
-
 
 const renderFeaturesChart = coasters => {
 
@@ -68,9 +62,6 @@ const renderFeaturesChart = coasters => {
     new Chart('featuresChart', { type: 'radar', data, options })
 }
 
-
-
-
 const renderYearsChart = coasters => {
 
     const years = ['1998-2000', '2001-2003', '2004-2006', '2007-2009', '2013-2015', '2016-2018', '2019-2021']
@@ -86,16 +77,12 @@ const renderYearsChart = coasters => {
             pointBorderWidth: 5
         }]
     }
-
     const options = {
         plugins: {
             legend: { display: false }
         }
     }
-
     new Chart('yearsChart', { type: 'line', data, options })
 }
-
-
 
 printCharts();
