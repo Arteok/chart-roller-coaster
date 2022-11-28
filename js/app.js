@@ -1,8 +1,6 @@
 Chart.defaults.color = '#fff'
 Chart.defaults.borderColor = '#444'
 
-
-
 const printCharts = () => {
 
     fetchCoastersData('https://coasters-api.herokuapp.com', 'https://coasters-api.herokuapp.com/country/Spain')
@@ -35,7 +33,7 @@ const renderModelsChart = coasters => {
 
     new Chart('modelsChart', { type: 'doughnut', data, options })
 }
-
+/*----------------------------este----------------------------------*/
 const renderFeaturesChart = coasters => {
 
     const data = {
@@ -61,7 +59,7 @@ const renderFeaturesChart = coasters => {
 
     new Chart('featuresChart', { type: 'radar', data, options })
 }
-
+/*---------------------------------------------------------------*/
 const renderYearsChart = coasters => {
 
     const years = ['1998-2000', '2001-2003', '2004-2006', '2007-2009', '2013-2015', '2016-2018', '2019-2021']
